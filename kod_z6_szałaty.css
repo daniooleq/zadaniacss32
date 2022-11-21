@@ -1,0 +1,32 @@
+kod css 
+
+ body {
+color: #0000ff;
+font-size: 30px;
+ }
+p {
+color: #008000;
+font-size: 20px;
+ }
+ 
+ -------------------------
+ kod html
+ 
+ 
+ <html>
+<head>
+<title>zadanie 6</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<LINK href="szał_z6.css" rel="stylesheet" type="text/CSS">
+</head>
+<body bgcolor="silver">
+<p> :'( płacząca minka</p>
+:) usmieszek
+<p> :D minka z duzym usmiechem </p>
+:( smutna minka
+<p>B) minka z okularami i usmiechem </p>
+;) minka puszczajaca oczko
+
+</body>
+</html>
